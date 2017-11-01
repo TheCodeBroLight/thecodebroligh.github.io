@@ -1,0 +1,89 @@
+
+body {
+	font-weight: 300;
+	font-size:16px;
+	background:#333;
+	color:#f2f2f2;
+	font-family: 'Comfortaa';
+	-webkit-overflow-scrolling: touch;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: 300;
+}
+
+.centered {
+	text-align: center;
+}
+
+#buttonbar .button {
+	width:24%;
+	border:2px solid white;
+	padding:1em;
+	border-radius:8px;
+	display: inline-block;
+	background:black;
+}
+
+a,a:hover, a:active {
+	color:white;
+	text-decoration: none;
+}
+
+.box {
+	margin-left: 5%;
+	margin-right: 5%;
+	width:86%;
+	border:2px solid white;
+	padding:1em;
+	border-radius:8px;
+	display: inline-block;	
+	background:#111;
+}
+.box .button {
+	border:2px solid white;
+	padding:0.3em;
+	border-radius:8px;
+	display: inline-block;
+	background:black;
+}
+
+.bold {
+	font-weight:bold;
+	line-height: 1.5em;
+}
+
+.fake-syntax-box {
+	border:2px solid white;
+	padding:0.3em;
+	border-radius:8px;
+	display: inline-block;
+	background:black;	
+	font-weight: 200;
+
+}
+.syntax-box {
+	border:2px solid white;
+	padding:0.3em;
+	border-radius:8px;
+	display: inline-block;
+	background:black;	
+	font-weight: 200;
+
+}
+
+.syntaxz {
+	color:#e35;
+}
+.syntaxf {
+	color:#6e5;
+}
+.syntaxs {
+	color:#58e;
+}
+.syntaxt {
+	color:yellow;
+}
+.syntaxfo {
+	color:purple;
+}
